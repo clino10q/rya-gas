@@ -65,7 +65,7 @@ export default function Home() {
               to="/locations"
               className="rounded-full border border-white/25 px-7 py-3.5 font-body text-sm font-semibold text-white hover:border-flame hover:text-flame"
             >
-              Find a stations
+              Find a station
             </NavLink>
           </div>
         </div>
